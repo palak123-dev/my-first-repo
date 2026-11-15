@@ -1,3 +1,3 @@
 # my-first-repo
 "My first practice repository"
-Author-Palak varma
+Author-Palak
